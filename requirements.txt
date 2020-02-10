@@ -1,0 +1,7 @@
+django
+Pillow
+simplejson
+autopep8
+mysqlclient
+flake8
+autopep8
